@@ -1,0 +1,20 @@
+title: Tech Help
+description: Tech Help offers in-person, and drop-off and return technical services.
+# disabled because we are using a custom domain
+# baseurl: /business-frontpage
+
+color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+domain: techenthusiasmdynamics.github.io/      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: ""  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: ""      # place folder name if the site is served in a subfolder
