@@ -1,7 +1,8 @@
 title: Tech Help
 description: Tech Help offers in-person, and drop-off and return technical services.
 # disabled because we are using a custom domain
-# baseurl: /business-frontpage
+baseurl: ""
+url: ""
 
 color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
 

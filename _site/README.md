@@ -2,6 +2,8 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield">
 </a>
 
+# A website to host my technology small business utilizing:
+
 # [Start Bootstrap - Business Frontpage Jekyll Version](https://webjeda.com/business-frontpage/)
 
 Source: [Start Bootstrap - Business Frontpage](https://startbootstrap.com/template-overviews/business-frontpage/)
